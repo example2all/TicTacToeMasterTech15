@@ -21,8 +21,8 @@ Navigate to your account and then your repositories. You will see the the reposi
 Once you have cloned the repository and created working branch open VS Code. Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be your html. 
 
 1. Copy nameTicTacToe.html (while in VS Code use CTRL + C, then CTRL + V) and rename it by using your initals for first and last name. (e.g. "Jane Doe" will copy the nameTicTacToe.html file and rename it **jdTicTacToe.html**)
-2. Copy and rename **TTTstyles.css**
-3. Copy and rename **script.js**
+2. Copy and rename **TTTstyles.css** with your initials 
+3. Copy and rename **script.js** with your initials
 
 For example "Jane Doe" will have three files:
 
@@ -41,7 +41,7 @@ You should have similar files using your initials. In **your** html file you wil
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link rel="stylesheet" href="styles.css"> <!-- DO NOT CHANGE THIS LINK -->
- <link rel="stylesheet" href="TTTstyles.css">  <!-- Change file name here to point to your file -->
+ <link rel="stylesheet" href="styles.css">  <!-- Change file name here to point to your file -->
  <script src="script.js" defer></script>            <!-- Change file name here to point to your file -->
  <title>Tic-Tac-Toe - CodeBrainer</title>
 </head>
